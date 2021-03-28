@@ -15,13 +15,20 @@ License to use website
 Unless otherwise stated, addressky.com and/or its licensors own the intellectual property rights published on this website and materials used on addressky.com. Subject to the license below, all these intellectual property rights are reserved.
 You may view, download for caching purposes only, and print pages, files or other content from the website for your own personal use, subject to the restrictions set out below and elsewhere in these terms and conditions.
 You must not:
-•	republish material from this website in neither print nor digital media or documents (including republication on another website);
-•	sell, rent or sub-license material from the website;
-•	show any material from the website in public;
-•	reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose;
-•	edit or otherwise modify any material on the website;
-•	redistribute material from this website - except for content specifically and expressly made available for redistribution; or
+•	republish material from this website in neither print nor digital media or documents (including republication on another website)
+
+•	sell, rent or sub-license material from the website
+
+•	show any material from the website in public
+
+•	reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose
+
+•	edit or otherwise modify any material on the website
+
+•	redistribute material from this website - except for content specifically and expressly made available for redistribution or
+
 •	republish or reproduce any part of this website through the use of iframes or screenscrapers.
+
 Where content is specifically made available for redistribution, it may only be redistributed within your organisation.
 
 Acceptable use
@@ -29,12 +36,19 @@ You must not use this website in any way that causes, or may cause, damage to th
 You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.
 You must not conduct any systematic or automated data collection activities on or in relation to this website without addressky.com's express written consent.
 This includes:
-•	scraping;
-•	data mining;
-•	data extraction;
-•	data harvesting;
-•	'framing' (iframes);
+
+•	scraping
+
+•	data mining
+
+•	data extraction
+
+•	data harvesting
+
+•	'framing' (iframes)
+
 •	Article 'Spinning'.
+
 You must not use this website or any part of it to transmit or send unsolicited commercial communications.
 You must not use this website for any purposes related to marketing without the express written consent of addressky.com.
 
@@ -83,6 +97,8 @@ If any provision of this website disclaimer is, or is found to be, unenforceable
 
 Indemnity
 You hereby indemnify addressky.com and undertake to keep addressky.com indemnified against any losses, damages, costs, liabilities and expenses (including without limitation legal expenses and any amounts paid by addressky.com to a third party in settlement of a claim or dispute on the advice of addressky.com's legal advisers) incurred or suffered by addressky.com arising out of any breach by you of any provision of these terms and conditions, or arising out of any claim that you have breached any provision of these terms and conditions.
+
+The response times are approximate and by not complying with this parameter there will be no sanction or claim on the part of the contractor.
 
 Breaches of these terms and conditions
 Without prejudice to addressky.com's other rights under these terms and conditions, if you breach these terms and conditions in any way, addressky.com may take such action as addressky.com deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you.
